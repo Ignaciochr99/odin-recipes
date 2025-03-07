@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 0.25em 0.4em;
+}
+
+li{
+    padding-left: 0.5em;
+    margin: 0.5em 1.5em ;
+    list-style: square inside;
+}
+
+a{
+    background-color: pink;
+    text-decoration: none;
+    color: black;
+}
