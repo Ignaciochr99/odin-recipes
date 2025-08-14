@@ -4,8 +4,31 @@
     box-sizing: border-box;
 }
 
-h1{
-    padding: 0.25em 0.4em;
+html{
+    background-color: cyan;
+}
+.container{
+    width: 550px;
+    margin: 15px auto;
+    background-color: aliceblue;
+    padding: 15px;
+}
+
+.title.index{
+    background-color: lightcoral;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+.list.index{
+    display: inline-block;
+    background-color: coral;
+    width: 49.6%;
+    padding: 5px;
+}
+.list.index.two{
+    margin-left: 10px;
+    margin-right: 0px;
 }
 
 li{
